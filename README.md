@@ -1,2 +1,2 @@
-# Loading_icon_using_CSS
+# Loading_icon_using_HTML, CSS and JS
 
